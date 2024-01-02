@@ -16,4 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "Travel planning"
 include(":app")
 include(":app")
+include(":app")
  
